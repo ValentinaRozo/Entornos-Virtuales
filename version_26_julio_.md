@@ -1,0 +1,1 @@
+se agrega un cuadrado y una esfera
